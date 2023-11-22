@@ -1,5 +1,5 @@
 -  ✨ Hi, I’m @harleynghx ✨
--  ✨ I'm a student @42KL ✨
+-  ✨ I'm a cadet @42KL ✨
 - 
 
 <!---
