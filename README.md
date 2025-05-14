@@ -53,6 +53,7 @@ if __name__ == '__main__':
 
    ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
    ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+   ![DaisyUI](https://img.shields.io/badge/DaisyUI-%230A81B8.svg?style=for-the-badge&logo=daisyui&logoColor=white)
 
 <br>
 
