@@ -17,7 +17,7 @@ class Developer:
         self.location = "Kuala Lumpur, Malaysia"
         self.age = 22
         self.roles = ["Student", "Front-End Developer", "Hackathon", "web3 Developer"]
-        self.interests = ["Web Dev", "UI/UX", "Cybersecurity", "Open Source"]
+        self.interests = ["Web Dev", "UI/UX", "Block-Chain", "Open Source"]
 
     def introduce(self):
         print(f"Hi, I'm {self.name} aka @{self.alias}")
