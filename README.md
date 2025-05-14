@@ -110,6 +110,8 @@ if __name__ == '__main__':
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
+<h2 align="center">Socials</h2>
+
 <div align="center">
   <a href="mailto:keyanandydelgado@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
