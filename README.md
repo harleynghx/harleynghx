@@ -14,14 +14,14 @@ class Developer:
     def __init__(self):
         self.name = "Harley Ng Harl Xhyuen"
         self.alias = "harleynghx"
-        self.location = "🌏 Kuala Lumpur, Malaysia"
+        self.location = "Kuala Lumpur, Malaysia"
         self.age = 22
         self.roles = ["Student", "Front-End Developer", "Hackathon", "web3 Developer"]
         self.interests = ["Web Dev", "UI/UX", "Cybersecurity", "Open Source"]
 
     def introduce(self):
         print(f"Hi, I'm {self.name} aka @{self.alias}")
-        print("💻 I build stuff, break stuff (legally), and love learning new things.")
+        print("I build stuff, break stuff (legally), and love learning new things.")
 
 if __name__ == '__main__':
     me = Developer()
