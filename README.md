@@ -96,8 +96,9 @@
   </a>
 </p>
 
-
+<p align="center">
 ## Socials
+</p>
 
 <div align="center">
   <a href="mailto:keyanandydelgado@gmail.com">
