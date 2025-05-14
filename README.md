@@ -13,20 +13,20 @@
 ## **About me**
 
 ```python
-class AbhigyanTrips():
+class harlxhyuen():
     
   def __init__(self):
-    self.name = "Abhigyan Tripathi";
-    self.username = "abhigyantrips";
-    self.location = "Mumbai, India";
-    self.twitter = "@abhigyantrips";
-    self.web = "https://abhigyantrips.dev";
+    self.name = "Harley Ng Harl Xhyuen";
+    self.username = "harleynghx";
+    self.location = "Kuala Lumpur, Malaysia";
+    self.twitter = "-";
+    self.web = "-";
   
   def __str__(self):
     return self.name
 
 if __name__ == '__main__':
-    me = AbhigyanTrips()
+    me = harleynghx()
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
