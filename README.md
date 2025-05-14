@@ -125,7 +125,7 @@
 
 <li>
 <a href="harleyh.x.ng@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Harley Ng-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  harleyh.x.ng-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
