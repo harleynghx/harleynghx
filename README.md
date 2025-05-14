@@ -91,7 +91,7 @@
 <br>
 
 
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Analytic </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Analytic </b>
 
 <p align="center">
   <a href="https://github.com/harleynghx">
