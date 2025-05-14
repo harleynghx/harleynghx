@@ -19,8 +19,7 @@ class Harlxhyuen():
     self.name = "Harley Ng Harl Xhyuen";
     self.username = "harleynghx";
     self.location = "Kuala Lumpur, Malaysia";
-    self.twitter = "-";
-    self.web = "-";
+    self.age = "22";
   
   def __str__(self):
     return self.name
