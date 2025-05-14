@@ -50,7 +50,7 @@ if __name__ == '__main__':
 
 <br>   
     
-- **Framworks**:
+- **Frameworks**:
 
    ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
    ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
