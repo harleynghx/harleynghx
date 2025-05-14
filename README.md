@@ -48,7 +48,7 @@ if __name__ == '__main__':
 
 <br>   
     
-- **Front-End Development**:
+- **Framworks**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -62,7 +62,7 @@ if __name__ == '__main__':
     
 <br>
 
-- **Softwares and Tools**:
+- **IDEs & Tools**:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
