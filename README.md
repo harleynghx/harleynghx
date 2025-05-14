@@ -77,7 +77,7 @@ if __name__ == '__main__':
 ## Projects
 <p align="center">
   <a href="https://github.com/harleynghx/Snake-game">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harleynghx&repo=Website-Blocker&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harleynghx&repo=Snake-game&theme=tokyonight" />
   </a>  
   <a href="https://github.com/Nneji123/Alien-Shooter">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nneji123&repo=Alien-Shooter&theme=tokyonight" />
