@@ -13,19 +13,22 @@
 ## **About me**
 
 ```python
-class Harlxhyuen():
-    
-  def __init__(self):
-    self.name = "Harley Ng Harl Xhyuen";
-    self.username = "harleynghx";
-    self.location = "Kuala Lumpur, Malaysia";
-    self.age = "22";
-  
-  def __str__(self):
-    return self.name
+class Developer:
+    def __init__(self):
+        self.name = "Harley Ng Harl Xhyuen"
+        self.alias = "harleynghx"
+        self.location = "🌏 Kuala Lumpur, Malaysia"
+        self.age = 15
+        self.roles = ["Student", "Front-End Developer", "CTF Newbie"]
+        self.interests = ["Web Dev", "Linux", "Cybersecurity", "Open Source"]
+
+    def introduce(self):
+        print(f"Hi, I'm {self.name} aka @{self.alias}")
+        print("💻 I build stuff, break stuff (legally), and love learning new things.")
 
 if __name__ == '__main__':
-    me = harleynghx()
+    me = Developer()
+    me.introduce()
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
