@@ -13,7 +13,7 @@
 ## **About me**
 
 ```python
-class harlxhyuen():
+class Harlxhyuen():
     
   def __init__(self):
     self.name = "Harley Ng Harl Xhyuen";
