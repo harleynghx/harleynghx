@@ -1,7 +1,7 @@
 
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=cyan&size=38&center=true&vCenter=true&width=600&height=200&lines=hello&hearts;++;I'm+a+Cadet+@42KL;I'm+Harley,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=cyan&size=38&center=true&vCenter=true&width=600&height=200&lines=hello&hearts;++;I'm+a+Cadet+@42KL;I'm+Harley,;Computer+Science+Student,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 
