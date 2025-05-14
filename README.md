@@ -81,7 +81,7 @@
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-### ⚙️ &nbsp;GitHub Analytics
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Analytic </b>
 
 <p align="center">
   <a href="https://github.com/Adityakanoi2001">
