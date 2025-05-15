@@ -20,7 +20,7 @@ class Developer:
         self.interests = ["Web Dev", "UI/UX", "Blockchain", "Open Source"]
 
     def introduce(self):
-        print(f"Hi, I'm {self.name} aka @{self.alias}")
+        print(f"Hi, I'm {self.Harley} aka @{self.harlxhyuen}")
         print("I build stuff, break stuff (legally), and love learning new things.")
 
 if __name__ == '__main__':
